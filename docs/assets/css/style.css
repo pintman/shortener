@@ -4,3 +4,10 @@
 @import "{{ site.theme }}";
 
 /* All custom css below */
+footer {
+	display: none;
+}
+
+a#forkme_banner {
+    display: none;
+}
