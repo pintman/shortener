@@ -4,6 +4,7 @@
 
 - Informationsblatt [PDF](binaere_dateiformate.pdf)
 - Beispieldateien [3x2.bmp](3x2.bmp) (klein), [100x100.bmp](100x100.bmp) (größer)
+- [stegano.bmp](stegano.bmp) (Bild mit Geheimbotschaft)
 
 ## Links
 
