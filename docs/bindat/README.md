@@ -12,5 +12,6 @@
 - [Magische Zahlen/magic numbers](https://de.wikipedia.org/wiki/Magische_Zahl_(Informatik)) (Wikipedia)
 - [Reading and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) (offizielle Python-Dokumentation)
 - [Byte-Reihenfolge (*little-endian, big-endian*)](https://de.wikipedia.org/wiki/Byte-Reihenfolge)  (Wikipedia)
+- [int.from_bytes](https://docs.python.org/3/library/stdtypes.html?highlight=int%20from_bytes#int.from_bytes) wandelt eine Byte-Sequenz in eine Zahl um
 - [Steganographie](https://de.wikipedia.org/wiki/Computergest%C3%BCtzte_Steganographie) (Wikipedia)
 - [Poster zu binären Dateiformaten](https://github.com/corkami/pics/tree/master/binary) von Ange Albertini
