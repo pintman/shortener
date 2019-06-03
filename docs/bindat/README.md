@@ -11,6 +11,7 @@
 - [Windows Bitmap](https://de.wikipedia.org/wiki/Windows_Bitmap) (Wikipedia)
 - [Magische Zahlen/magic numbers](https://de.wikipedia.org/wiki/Magische_Zahl_(Informatik)) (Wikipedia)
 - [Reading and Writing Files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files) (offizielle Python-Dokumentation)
+- [hex()](https://docs.python.org/3/library/functions.html#hex) wandelt eine Zahl in einen Hex-String
 - [Byte-Reihenfolge (*little-endian, big-endian*)](https://de.wikipedia.org/wiki/Byte-Reihenfolge)  (Wikipedia)
 - [int.from_bytes](https://docs.python.org/3/library/stdtypes.html#int.from_bytes) wandelt eine Byte-Sequenz in eine Zahl um
 - [Steganographie](https://de.wikipedia.org/wiki/Computergest%C3%BCtzte_Steganographie) (Wikipedia)
